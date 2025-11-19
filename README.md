@@ -26,7 +26,7 @@ Contains patient details such as:
 •	Serum sodium levels<br>
 •	Diabetes status<br>
 •	Survival status (Alive/Death)<br>
-•	Additional clinical features
+•	Additional clinical features<br>
 Data preparation included age segmentation, handling missing values, and calculation of survival measures.
 
 ### 5.  Features and Highlights
@@ -41,7 +41,7 @@ Healthcare teams often lack an easy way to interpret survival trends and risk fa
 •	Survival trends across age categories<br>
 •	Influence of serum sodium levels on survival<br>
 •	Impact of diabetes on patient outcomes<br>
-•	Gender-based differences in survival
+•	Gender-based differences in survival<br>
 The dashboard supports early detection strategies and risk-based patient monitoring.
 
 ### Key Visuals Explained
@@ -51,7 +51,7 @@ The dashboard supports early detection strategies and risk-based patient monitor
 •	Alive Percentage<br>
 •	Average Alive Value<br>
 •	Total Alive<br>
-•	Total Death
+•	Total Death<br>
 These metrics give an overall snapshot of patient outcomes.
 
 ### •	 Total Alive by Category
