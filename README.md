@@ -10,7 +10,7 @@ The CardioCare Analytics Dashboard provides an interactive view of heart disease
 
 ### 3.  Tech Stack
    
-The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) –.Used for calculated measures(Alives %, averages, totals) dynamic visuals and conditional logic.<br>
@@ -22,10 +22,10 @@ The dashboard was built using the following tools and technologies:
 Dataset sourced from publicly available Heart Disease datasets (Kaggle/UCI Repository).
 Contains patient details such as:
 
-•	Age and age group
-•	Serum sodium levels
-•	Diabetes status
-•	Survival status (Alive/Death)
+•	Age and age groub<br>
+•	Serum sodium levels<br>
+•	Diabetes status<br>
+•	Survival status (Alive/Death)<br>
 •	Additional clinical features
 Data preparation included age segmentation, handling missing values, and calculation of survival measures.
 
@@ -37,10 +37,10 @@ Healthcare teams often lack an easy way to interpret survival trends and risk fa
 
 ### Goal of the Dashboard
 
-•	To provide a visual analytical tool that highlights:
-•	Survival trends across age categories
-•	Influence of serum sodium levels on survival
-•	Impact of diabetes on patient outcomes
+•	To provide a visual analytical tool that highlights:<br>
+•	Survival trends across age categories<br>
+•	Influence of serum sodium levels on survival<br>
+•	Impact of diabetes on patient outcomes<br>
 •	Gender-based differences in survival
 The dashboard supports early detection strategies and risk-based patient monitoring.
 
@@ -48,9 +48,9 @@ The dashboard supports early detection strategies and risk-based patient monitor
 
 ### •	 KPI Cards
 
-•	Alive Percentage
-•	Average Alive Value
-•	Total Alive
+•	Alive Percentage<br>
+•	Average Alive Value<br>
+•	Total Alive<br>
 •	Total Death
 These metrics give an overall snapshot of patient outcomes.
 
