@@ -11,10 +11,10 @@ The CardioCare Analytics Dashboard provides an interactive view of heart disease
 ### 3.  Tech Stack
    
 The dashboard was built using the following tools and technologies:
-•	📊 Power BI Desktop – Main data visualization platform used for report creation.
-•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-•	🧠 DAX (Data Analysis Expressions) –.Used for calculated measures(Alives %, averages, totals) dynamic visuals and conditional logic.
-•	📝 Data Modeling – Relationships established among patient attributes to enable cross-filtering and aggregation.
+•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	🧠 DAX (Data Analysis Expressions) –.Used for calculated measures(Alives %, averages, totals) dynamic visuals and conditional logic.<br>
+•	📝 Data Modeling – Relationships established among patient attributes to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 4.  Data Source
