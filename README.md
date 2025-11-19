@@ -76,10 +76,10 @@ Interactive buttons to filter the dashboard by male or female patients for targe
 
 ### 6.  Business Impact and Insights
 
-•	Survival probability decreases significantly in patients aged 71+.
-•	Serum sodium levels are strongly correlated with survival outcomes.
-•	Diabetes is a prominent risk factor in the 51–70 age groups.
-•	Gender filtering reveals differences in survival distribution and risk levels.
+•	Survival probability decreases significantly in patients aged 71+.<br>
+•	Serum sodium levels are strongly correlated with survival outcomes.<br>
+•	Diabetes is a prominent risk factor in the 51–70 age groups.<br>
+•	Gender filtering reveals differences in survival distribution and risk levels.<br>
 •	Supports clinicians and researchers in making early diagnosis and targeted interventions.
 
 
